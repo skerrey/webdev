@@ -1,0 +1,52 @@
+/*
+    Seth Kerrey
+    3/14/2022
+    Week 1 - Intro to CSS
+*/
+p {
+    font-weight: bold;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.italic {
+    font-style: italic;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.blue {
+    color: blue;
+}
+
+.teal {
+    color: teal;
+}
+
+.green {
+    color: green;
+}
+
+.silver {
+    color: #C0C0C0;
+}
+
+.aquamarine {
+    color: 	#00FFBF;
+}
+
+table {
+    border: 3px dotted black;
+}
+
+td {
+    border: 1px solid yellow;
+}
+
+#last-div {
+    font-size: 3em;
+}
